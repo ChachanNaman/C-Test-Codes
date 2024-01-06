@@ -7,7 +7,7 @@ int marks[4];
 
 for(int i = 0; i < 4; i++)
 {
-    printf("Enter the value of %d of the element of the array", i);
+    printf("Enter value of %d of the element of the array", i);
     scanf("%d\n", &marks[i]);
 }
 
